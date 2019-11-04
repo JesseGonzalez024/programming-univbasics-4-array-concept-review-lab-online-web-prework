@@ -18,5 +18,5 @@ end
 
 def find_min_value(array)
   new_order = array.sort
-    return new_order.first
+  return new_order.first
 end
